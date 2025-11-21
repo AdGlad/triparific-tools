@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Local config / secrets (VERY IMPORTANT)
+*.env
+.env.*
+*.json
+serviceAccountKey.json
+credentials.json
+
